@@ -14,7 +14,7 @@ public class AlumnoController {
 		String apellido = " Valencia";
 		String carnet = " 00003417";
 		String disciplina = " Ing. Informática";
-		String anioCursado = "Cuarto año"
+		String anioCursado = "Cuarto año";
 		
 		return nombre + apellido + carnet + disciplina + anioCursado;
 	}
